@@ -13,5 +13,5 @@ To Run:
 in another terminal ./client
 
 Used by manuals:
-[https://en.wikipedia.org/wiki/Berkeley_sockets](https://en.wikipedia.org/wiki/Berkeley_sockets)
-[http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html](http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
+https://en.wikipedia.org/wiki/Berkeley_sockets
+http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html
