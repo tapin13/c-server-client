@@ -1,0 +1,17 @@
+# C-SERVER-CLIENT
+
+Simple server and client wrote on C.
+
+Compiled on LinuxMint 17.3
+
+To Compile:
+gcc server.c -o server -Wall
+gcc client.c -o client -Wall
+
+To Run:
+./server
+in another terminal ./client
+
+Used by manuals:
+[https://en.wikipedia.org/wiki/Berkeley_sockets](https://en.wikipedia.org/wiki/Berkeley_sockets)
+[http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html](http://www.cs.rpi.edu/~moorthy/Courses/os98/Pgms/socket.html)
